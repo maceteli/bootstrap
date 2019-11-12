@@ -14,7 +14,7 @@ html, body{
     color: #ffffff;
 }
 #home{
-    background: url(img/pic2.jpg) no-repeat center center fixed;
+    background: url(pic2.jpg) no-repeat center center fixed;
     display: table;
     height:100%;
     position: relative;
@@ -37,7 +37,7 @@ html, body{
     width:100%;
 }
 #fixed{
-    background: url(img/pic1.jpg) no-repeat center center fixed;
+    background: url(pic1.jpg) no-repeat center center fixed;
     display: table;
     height: 80%;
     position: relative;
